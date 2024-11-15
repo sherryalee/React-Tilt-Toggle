@@ -1,2 +1,2 @@
 # React-Tilt-Toggle
-This is a React project that toggles the visibility of a stylized, interactive list using buttons and the react-tilt library.
+This project is a React app showcasing a toggleable UI with a dynamic Tilt effect, where users can show or hide a styled card containing a list of names using buttons.
